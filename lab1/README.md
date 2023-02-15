@@ -20,7 +20,7 @@
 │       Floyd_cycle_detection_optimized.py
 │       readme.md
 │       speeds.crtx
-│       speeds_results.JPG
+│       speeds_results.png
 │       Лабораторная работа 1 (весна 2023).pdf
 ```
 
@@ -53,7 +53,7 @@
 
 
 ### сравнительная таблица 
-![image](https://github.com/liaoxin-a/Evolutionary_Algorithm_ITMO_2023/blob/main/lab1/speeds_results.JPG)
+![image](https://github.com/liaoxin-a/Evolutionary_Algorithm_ITMO_2023/blob/main/lab1/speeds_results.png)
 
 ## Выводы
 В ходе выполнения лабораторной работы был изучен алгоритм обнаружения цикла Флойда.Было разработано 3 реализации алгоритма на Python и С++, Python с оптимизациями и без. Были сравнены результаты, составлена итоговая таблица.Наконец, выяснилось, что в языке программирования C++ количество узлов мало влияет на скорость его компиляции. Влияние на python очень велико. Когда узлов мало, скорость компиляции C++ не сильно отличается от скорости Python, но по мере увеличения количества узлов скорость C++ явно лучше, чем у Python.
