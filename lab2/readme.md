@@ -59,7 +59,7 @@ It attempts to find the combination of 50 translucent polygons that most closely
 | Subjective result | Number of generations | Fitness | Number of polygons |  Number of angles Solution | image |
 | ------- |------| ------| ------| ------| ------|
 | bad | 1161 | 392593.505 | 10 | 61 | ![bad_img](https://github.com/liaoxin-a/Evolutionary_Algorithm_ITMO_2023/blob/main/lab2/img/bad.JPG) |
-| generally | 13329 | 228753.321 | 28 | 215 | ![generally_img](https://github.com/liaoxin-a/Evolutionary_Algorithm_ITMO_2023/blob/main/lab2/img/normal.JPG) |
+| generally | 13329 | 228753.321 | 28 | 215 | ![generally_img](https://github.com/liaoxin-a/Evolutionary_Algorithm_ITMO_2023/blob/main/lab2/img/normal.jpg) |
 | good | 134570	| 187925.826 | 50 | 410 |  ![good_img](https://github.com/liaoxin-a/Evolutionary_Algorithm_ITMO_2023/blob/main/lab2/img/good.JPG) |
 
 
